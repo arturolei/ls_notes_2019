@@ -26,7 +26,7 @@
 - How the night went for you?
   - Like going to work? Static pages (good reviewing <div> issues)
 
-- CSS SPECIFICITY = KING
+- CSS SPECIFICITY = KING 
 
 
 ### Introduction:
