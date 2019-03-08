@@ -92,7 +92,7 @@
 
 
 
-## 
+## Note for Future Media Queries
 ```
 @media (condition, e.g. max-width:520px){
     p{
