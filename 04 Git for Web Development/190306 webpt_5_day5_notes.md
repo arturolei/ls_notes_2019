@@ -9,6 +9,9 @@
 
 ## Instructor Codepen/Project Link/Resources:
 - [Terminal Command Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+- [Link to TK Material, "Git for Web Development"](https://learn.lambdaschool.com/fsw/module/rect59e95n6osvocd)
+- [Pull Request 1: core branch challenge](https://github.com/LambdaSchool/Lambda-Hello/pull/1313)
+- [Pull Request 2: alternate_reality branch](https://github.com/LambdaSchool/Lambda-Hello/pull/1379)
 
 ## General Observations/New Things Learned/Things to Review relating to Git for Web Development:
 - BASH is Bourne Again Shell (on Mac, we get to use the terminal)
@@ -39,4 +42,6 @@
     - Get used to getting criticism and review 
     - Just because someone has a problem with your code does not mean someone else has a problem with you personally
     - Code review
+
+
 
