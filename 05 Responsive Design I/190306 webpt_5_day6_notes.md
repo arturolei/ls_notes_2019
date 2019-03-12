@@ -1,4 +1,4 @@
-# Lambda School, Day 5 Notes, 6 March 2019: Git For Web Development
+# Lambda School, Day 4 Notes, 6 March 2019: Git For Web Development
 
 
 ## PM and Team Mtg:
