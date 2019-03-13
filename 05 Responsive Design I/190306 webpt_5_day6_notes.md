@@ -6,6 +6,7 @@
 
 
 ## Instructor Codepen/Project Link/Resources:
+- [Lambda School Training Kit Link](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
 - [Interneting is Hard Content on Responsive Design](https://internetingishard.com/html-and-css/responsive-design/)
 - [MDN Page on Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [Google Dev Page on Responsive Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
