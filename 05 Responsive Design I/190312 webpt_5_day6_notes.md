@@ -52,3 +52,16 @@
     - Even if you don't understand this now, JUST PUT THIS TAG in your code. 
         - No need to memorize it. 
 
+
+
+## What Went Well/Break throughs
+- Getting the hang of it
+- Focused on MVP
+- This is really fun; I love the puzzle element of it. Reminds me of math major days
+
+## Challenges: 
+- Nitpicking again
+- Atoning for my past sins when it came to the desktop version
+- I still need to take time to be confident about distinguishing what max-width, min-width (greater than, less than)
+- I am still working out what the difference is between adaptive vs responsive (no hard-corded widths)?
+- I accidentally used browser zoom; it threw everything off.
