@@ -14,7 +14,7 @@
 - [Cheese Bread](https://www.splendidtable.org/recipes/spicy-cheese-bread)
 
 
-## Review of What We LEarned:
+## Review of What We Learned:
 - Reminder: 
     - Fixed: Everything is set
     - Fluid: Everything is in percentage
