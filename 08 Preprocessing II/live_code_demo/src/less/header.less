@@ -1,0 +1,17 @@
+header{
+    border-bottom:1px solid black;
+    .flex(@justify:space-between); //Only pout the value you we want
+    @media @tablet{
+        flex-direction:column;
+        padding-bottom:25px;
+    }
+    a {
+        margin: 0 5px;
+        color: @linkColor;
+        font-size: 18px;
+        text-decoration:none;
+        &:hover{
+            color:darken(@linkColor,20%);
+        }
+    }
+}

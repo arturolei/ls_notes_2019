@@ -1,0 +1,18 @@
+footer {
+  border-top: 1px solid black;
+  margin-top: 25px;
+
+  @media @tablet {
+    flex-direction: column;
+  }
+
+  nav {
+    padding-top: 15px;
+    .flex(@justify: space-around);
+  }
+
+  a {
+    margin: 0 5px;
+    font-size: 18px;
+  }
+}

@@ -11,9 +11,11 @@
 - [Codepen.io, ]()
 - [Github Project II for Preprocessing Page](https://github.com/LambdaSchool/Preprocessing-II)
 - [Official less Page](http://lesscss.org/)
+- [Official less documentation on Functions](http://lesscss.org/functions/)
 
 ## Notes/Observations
-
+- Creating a `public` or `dist` folder is a way to keep things straight
+- `viewport` meta tag for making screen's viewport match the device (essentialy makes life easier)
 
 ## Notes on LESS:
 -
