@@ -1,4 +1,4 @@
-# Lambda School, Day 6 Notes, 14 March 2019: Responsive Design II
+# Lambda School, Day 9 Notes, 20 March 2019: Responsive Design II
 
 
 ## PM and Team Mtg Notes:

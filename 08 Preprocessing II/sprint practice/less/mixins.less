@@ -1,0 +1,27 @@
+// Mixins Here
+
+//Mixins
+.flex(@flex-direction:column, @justify:center, @align-items:center){
+    flex-direction:@flex-direction;
+    justify-content:@justify;
+    align-items: @align-items;
+}
+.center(){
+    margin:0 auto;
+    text-align:center;
+}
+
+//Parametric Mixins for Sign Up Button
+.button(@width:28%, @font-size:1.7rem){
+    background-color:@btn-bg-color;
+    color:@wild-sand;
+    width:@width;
+    font-size:@font-size;
+    text-align:center;
+    padding: 2.5% 3%;
+    border-radius:5px;
+    &:hover{
+        color:@btn-bg-color;
+        background-color:@wild-sand;
+    }
+}

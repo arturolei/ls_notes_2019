@@ -1,0 +1,36 @@
+// Navigation code here
+.navigation{
+    background-color:@wild-sand;
+    .flex();
+    h1{
+        font-size:4rem;
+        .center();
+        padding: 1%;
+        @media @phone{
+            padding: 2%;
+        }
+    }
+    nav{
+        .flex(@flex-direction:row, @justify:space-between);
+        .center();
+        padding-top:0.5%;
+        padding-bottom: 1.5%;
+        width:72%;
+        @media @phone{
+            width:100%;
+            justify-content: space-around;
+            padding-top: 1%;
+            padding-bottom:2%;
+        }
+        a{
+            font-size:1.8rem;
+            text-decoration: none;
+            color:@main-font-color;
+            padding: 0 1.5%;
+            @media @phone{
+                font-size:1.6rem;
+                padding: 0 3%;
+            }
+        }
+    }
+}
