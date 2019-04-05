@@ -5,7 +5,7 @@
 
 
 ## Instructor Codepen/Project Link/Resources:
-- [Lambda School Training Kit Link: Preprocessing II](https://learn.lambdaschool.com/fsw/module/recct3kjytirywqmh)
+- [Lambda School Training Kit Link: JS 1](https://learn.lambdaschool.com/fsw/module/recct3kjytirywqmh)
 - [Wes Bos Article on Scope](https://wesbos.com/javascript-scoping/)
 - [Codepen.io, My Fork](https://github.com/arturolei/JavaScript-I/pull/1)
 - [Codepen.io, Instructor's work](https://codepen.io/campope/pen/WmBOKj?editors=0011)
